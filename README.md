@@ -25,21 +25,6 @@ Import the raw API version of crawler
 
 `from youtube_api_crawler.py import crawler_api`
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 

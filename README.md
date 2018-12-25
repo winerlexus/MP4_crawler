@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Create `Jupyter notebook` enviroment with anaconda
+Create `Jupyter notebook` enviroment with anaconda  
 [TODO] create a seperated virtual enviroment for project
 
 Use the package manager pip to install requirement.txt
